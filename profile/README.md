@@ -5,4 +5,4 @@ Here are the repos in this organization:
 
 - Learn Ruby:         [tplobo-learns/Ruby](https://github.com/tplobo-learns/Ruby)
 - Learn Python:       [tplobo-learns/Python](https://github.com/tplobo-learns/Python)
-- Learn Mathematica:  [tplobo-learns/Mathematica](https://github.com/tplobo-learns/Wolfram-Mathematica)
+- Learn Mathematica:  [tplobo-learns/Wolfram-Mathematica](https://github.com/tplobo-learns/Wolfram-Mathematica)
